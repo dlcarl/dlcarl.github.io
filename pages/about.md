@@ -9,6 +9,8 @@ weight: 1
 
 I am a PhD student in statistics at Università Bocconi (Milan).
 
+You can download my full [CV here]({{ site.url }}/resume.pdf).
+
 I'm especially interested in
 * Causal Inference
 * High Dimensional Statistics
